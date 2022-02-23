@@ -1,5 +1,8 @@
-## Comandos git - Parte I
+﻿## Comandos git - Parte I
 - git init -> cria novo repositório
 - git status -> verifica estado dos arquivos/diretórios
 - git add -> adiciona arquivo/diretório (staged area)
 - git commit -> confirma as alterações no repositório
+
+
+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
